@@ -1,0 +1,11 @@
+# Ignore build and IDE files
+*.exe
+*.o
+*.obj
+*.dev
+*.layout
+*.depend
+*.sdf
+*.opensdf
+*.user
+*.vscode/
